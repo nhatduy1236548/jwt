@@ -1,4 +1,5 @@
+
 export class Task{
-    name: string;
+    name: number;
     id: string
 }

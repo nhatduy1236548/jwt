@@ -13,8 +13,8 @@ import { JwtStrategy } from './jwt.strategy';
     transport: {
       host: 'smtp.sendgrid.net',
       auth: {
-        user: 'nguyenvannhatduy1236548@gmail.com',
-        pass: '1236548nhatduy',
+        user: '',
+        pass: '',
       },
     }
   }),
